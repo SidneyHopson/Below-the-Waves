@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Subrepia/Content/Shark/Cretoxyrhina_BumpB.uasset filter=lfs diff=lfs merge=lfs -text
+Subrepia/Content/Shark/shark.uasset filter=lfs diff=lfs merge=lfs -text
